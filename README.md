@@ -1,2 +1,2 @@
 # Weather-App
-axctive link :- https://rani-dangari.github.io/Weather-App/
+active link :- https://rani-dangari.github.io/Weather-App/
